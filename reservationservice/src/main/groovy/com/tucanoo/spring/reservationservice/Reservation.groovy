@@ -20,6 +20,6 @@ class Reservation {
     Long roomId
 
     @Column(name = "RES_DATE")
-    Date reservationDate
+    Date date
 
 }
